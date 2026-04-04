@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmed-elsayed-programmer" alt="ahmed-elsayed-programmer" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://ahmedelsayed.netlify.app/](https://ahmedelsayed.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://ahmedelsayed.netlify.app/](https://www.linkedin.com/in/ahmed-elsayed-developer/)
 
 - 💬 Ask me about **Django , React , Nextjs , Rest API**
 
