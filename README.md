@@ -1,23 +1,70 @@
-<h1 align="center">Hi 👋, I'm Ahmed Elsayed</h1>
-<h3 align="center">A passionate software developer from Egypt</h3>
+<h1 align="center">Ahmed Elsayed</h1>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmed-elsayed-programmer" alt="ahmed-elsayed-programmer" /></a> </p>
-
-- 👨‍💻 All of my projects are available at [linkedin](https://www.linkedin.com/in/ahmed-elsayed-developer/)
-
-- 💬 Ask me about **Django , React , Nextjs , Rest API**
-
-- 📫 How to reach me **ahmedelsayed3157@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
+  <strong>Full-Stack Engineer · Python/Django · React/Next.js</strong><br />
+  Cairo, Egypt · Open to remote opportunities
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="https://ahmedelsayed.vercel.app">Portfolio</a> ·
+  <a href="https://www.linkedin.com/in/ahmed-elsayed-developer">LinkedIn</a> ·
+  <a href="mailto:ahmedelsayed3157@gmail.com">Email</a> ·
+  <a href="https://ahmedelsayed.vercel.app/CV.pdf">CV</a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmed-elsayed-programmer&show_icons=true&locale=en&layout=compact" alt="ahmed-elsayed-programmer" /></p>
+## About me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmed-elsayed-programmer&show_icons=true&locale=en" alt="ahmed-elsayed-programmer" /></p>
+I'm a full-stack engineer with 3+ years of experience building secure web and mobile products. My backend center of gravity is Python, Django, and Django REST Framework, paired with React, Next.js, TypeScript, and React Native on the client side.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmed-elsayed-programmer&" alt="ahmed-elsayed-programmer" /></p>
+- Building Django/DRF backends and React/Next.js product features at **Swaqly**
+- Experienced with authentication, authorization, REST APIs, relational databases, and production deployment
+- Comfortable owning features across backend architecture, responsive interfaces, and mobile clients
+- Programming instructor alongside product work
+- Bachelor's degree in Arabic Language at Al-Azhar University — expected 2027
+- Open to remote full-time and contract opportunities
+
+## Selected projects
+
+| Project | What it does | Stack |
+| --- | --- | --- |
+| **Inventory & Sales Management SaaS** | Branch-aware platform for products, stock, sales, customers, invoices, reports, and operational dashboards. Commercial project; source is private. | Django, DRF, Next.js, TypeScript, PostgreSQL, Playwright |
+| [**Learning Management System**](https://github.com/ahmed-elsayed-programmer/lms-system) | Course platform with instructor workflows, chapters, video delivery, enrollments, progress tracking, payments, and analytics. | Next.js, TypeScript, Prisma, Stripe, Mux |
+| [**Dev Flow**](https://github.com/ahmed-elsayed-programmer/dev-flow) | Developer knowledge community with authentication, questions, profiles, tags, collections, voting, and account flows. | Next.js, TypeScript, MongoDB, NextAuth, Zod |
+
+## Experience
+
+- **Full Stack Developer — Swaqly** · May 2025–Present
+- **Full Stack Engineer — First Filter** · Jun 2024–Mar 2025
+- **Full Stack Engineer — Mega Digital Agency** · Jan 2024–Jun 2024
+- **Frontend Developer — Valinteca** · Oct 2022–Jun 2023
+- **Programming Instructor — Resala Training Centers** · Nov 2020–Nov 2023
+
+## Core stack
+
+**Backend**
+
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white)
+![Django REST Framework](https://img.shields.io/badge/Django_REST_Framework-A30000?logo=django&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-111827)
+
+**Frontend and mobile**
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwindcss&logoColor=white)
+
+**Data and delivery**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=111827)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?logo=playwright&logoColor=white)
+
+## Contact
+
+For remote full-time or contract opportunities, email **[ahmedelsayed3157@gmail.com](mailto:ahmedelsayed3157@gmail.com)** or connect with me on **[LinkedIn](https://www.linkedin.com/in/ahmed-elsayed-developer)**.
