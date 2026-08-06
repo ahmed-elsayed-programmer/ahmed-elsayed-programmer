@@ -1,8 +1,8 @@
 <h1 align="center">Ahmed Elsayed</h1>
 
 <p align="center">
-  <strong>Full-Stack Engineer · Python/Django · React/Next.js</strong><br />
-  Cairo, Egypt · Open to remote opportunities
+  <strong>Python/Django Backend Engineer · Backend-Oriented Full-Stack Engineer</strong><br />
+  Cairo, Egypt · Available immediately · Open to worldwide remote opportunities
 </p>
 
 <p align="center">
@@ -14,12 +14,12 @@
 
 ## About me
 
-I'm a full-stack engineer with 3+ years of experience building secure web and mobile products. My backend center of gravity is Python, Django, and Django REST Framework, paired with React, Next.js, TypeScript, and React Native on the client side.
+I'm a backend-focused software engineer with 3+ years of experience building product systems with Python, Django, Django REST Framework, and relational databases. I focus on REST APIs, data modelling, authentication and authorization, permissions, integrations, and maintainable service logic. I contribute with React, Next.js, and TypeScript when end-to-end delivery requires it.
 
-- Building Django/DRF backends and React/Next.js product features at **Swaqly**
-- Experienced with authentication, authorization, REST APIs, relational databases, and production deployment
-- Comfortable owning features across backend architecture, responsive interfaces, and mobile clients
-- Programming instructor alongside product work
+- Building Django/DRF services, APIs, permissions, relational models, and product features at **Swaqly**
+- Experienced with PostgreSQL, MySQL, Redis, Docker, GitHub Actions, Nginx, and Gunicorn
+- Comfortable defining API contracts and delivering integrations for web and mobile clients
+- Teaching and mentoring experience across Python, Django, React, SQL, and programming fundamentals
 - Bachelor's degree in Arabic Language at Al-Azhar University — expected 2027
 - Open to remote full-time and contract opportunities
 
@@ -27,17 +27,17 @@ I'm a full-stack engineer with 3+ years of experience building secure web and mo
 
 | Project | What it does | Stack |
 | --- | --- | --- |
-| **Inventory & Sales Management SaaS** | Branch-aware platform for products, stock, sales, customers, invoices, reports, and operational dashboards. Commercial project; source is private. | Django, DRF, Next.js, TypeScript, PostgreSQL, Playwright |
+| [**TijaraOS — Inventory & Sales Management SaaS**](https://ahmedelsayed.vercel.app/projects/tijaraos) | Multi-tenant retail operations platform with organization-scoped access, transactional branch inventory and sales, permissions, reporting, and release automation. Private source; public technical case study. | Django, DRF, PostgreSQL, Redis, Docker, GitHub Actions, Next.js |
+| [**Smart Polling Platform**](https://github.com/ahmed-elsayed-programmer/smart-polling) | Django/DRF and Next.js polling application with conditional questions, token authentication, and real-time results through Django Channels. | Django, DRF, Channels, Next.js |
 | [**Learning Management System**](https://github.com/ahmed-elsayed-programmer/lms-system) | Course platform with instructor workflows, chapters, video delivery, enrollments, progress tracking, payments, and analytics. | Next.js, TypeScript, Prisma, Stripe, Mux |
-| [**Dev Flow**](https://github.com/ahmed-elsayed-programmer/dev-flow) | Developer knowledge community with authentication, questions, profiles, tags, collections, voting, and account flows. | Next.js, TypeScript, MongoDB, NextAuth, Zod |
 
 ## Experience
 
-- **Full Stack Developer — Swaqly** · May 2025–Present
-- **Full Stack Engineer — First Filter** · Jun 2024–Mar 2025
-- **Full Stack Engineer — Mega Digital Agency** · Jan 2024–Jun 2024
-- **Frontend Developer — Valinteca** · Oct 2022–Jun 2023
-- **Programming Instructor — Resala Training Centers** · Nov 2020–Nov 2023
+- **Full-Stack Developer — Swaqly** · Mar 2025–Present
+- **Full-Stack Developer — First Filter** · Jun 2024–May 2025
+- **Full-Stack Developer — Mega Digital Agency** · Jan 2024–Jun 2024
+- **Full Stack Engineer, Teaching and Mentoring — AMIT Learning** · Jun 2024–Dec 2024
+- **Frontend Developer — Valinteca** · Oct 2022–Feb 2023
 
 ## Core stack
 
