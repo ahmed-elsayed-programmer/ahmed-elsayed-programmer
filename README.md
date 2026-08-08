@@ -1,7 +1,7 @@
 <h1 align="center">Ahmed Elsayed</h1>
 
 <p align="center">
-  <strong>Python/Django Backend Engineer · Backend-Oriented Full-Stack Engineer</strong><br />
+  <strong>Full-Stack Developer · Python/Django + React/Next.js</strong><br />
   Cairo, Egypt · Available immediately · Open to worldwide remote opportunities
 </p>
 
@@ -14,11 +14,12 @@
 
 ## About me
 
-I'm a backend-focused software engineer with 3+ years of experience building product systems with Python, Django, Django REST Framework, and relational databases. I focus on REST APIs, data modelling, authentication and authorization, permissions, integrations, and maintainable service logic. I contribute with React, Next.js, and TypeScript when end-to-end delivery requires it.
+I'm a full-stack developer with 3+ years of experience building product features from relational data models and secure APIs through responsive web interfaces. I use Python, Django, Django REST Framework, and PostgreSQL on the backend, and TypeScript, React, and Next.js on the frontend.
 
-- Building Django/DRF services, APIs, permissions, relational models, and product features at **Swaqly**
+- Building Django/DRF services and React/Next.js product features at **Swaqly**
+- Backend depth in REST APIs, relational modelling, authentication, permissions, integrations, and service logic
+- Frontend depth in responsive interfaces, protected routes, forms, state, validation, and API integration
 - Experienced with PostgreSQL, MySQL, Redis, Docker, GitHub Actions, Nginx, and Gunicorn
-- Comfortable defining API contracts and delivering integrations for web and mobile clients
 - Teaching and mentoring experience across Python, Django, React, SQL, and programming fundamentals
 - Bachelor's degree in Arabic Language at Al-Azhar University — expected 2027
 - Open to remote full-time and contract opportunities
@@ -27,8 +28,8 @@ I'm a backend-focused software engineer with 3+ years of experience building pro
 
 | Project | What it does | Stack |
 | --- | --- | --- |
-| [**TijaraOS — Inventory & Sales Management SaaS**](https://ahmedelsayed.vercel.app/projects/tijaraos) | Multi-tenant retail operations platform with organization-scoped access, transactional branch inventory and sales, permissions, reporting, and release automation. Private source; public technical case study. | Django, DRF, PostgreSQL, Redis, Docker, GitHub Actions, Next.js |
-| [**Smart Polling Platform**](https://github.com/ahmed-elsayed-programmer/smart-polling) | Django/DRF and Next.js polling application with conditional questions, token authentication, and real-time results through Django Channels. | Django, DRF, Channels, Next.js |
+| [**TijaraOS — Inventory & Sales Management SaaS**](https://ahmedelsayed.vercel.app/projects/tijaraos) | Multi-tenant retail operations platform with organization-scoped access, transactional branch inventory and sales, permissions, reporting, and release automation. Private source; public technical case study. | Django, DRF, PostgreSQL, Redis, Next.js, TypeScript |
+| [**First Filter Automotive Platform**](https://ahmedelsayed.vercel.app/projects/first-filter) | Automotive catalogue workflows connecting vehicle, filter, manufacturer, and category data with permissions, image uploads, admin workflows, and web/mobile clients. | Django, DRF, PostgreSQL, React, Next.js, React Native |
 | [**Learning Management System**](https://github.com/ahmed-elsayed-programmer/lms-system) | Course platform with instructor workflows, chapters, video delivery, enrollments, progress tracking, payments, and analytics. | Next.js, TypeScript, Prisma, Stripe, Mux |
 
 ## Experience
@@ -67,4 +68,4 @@ I'm a backend-focused software engineer with 3+ years of experience building pro
 
 ## Contact
 
-For remote full-time or contract opportunities, email **[ahmedelsayed3157@gmail.com](mailto:ahmedelsayed3157@gmail.com)** or connect with me on **[LinkedIn](https://www.linkedin.com/in/ahmed-elsayed-developer)**.
+For full-stack roles using Python/Django and React/Next.js, email **[ahmedelsayed3157@gmail.com](mailto:ahmedelsayed3157@gmail.com)** or connect with me on **[LinkedIn](https://www.linkedin.com/in/ahmed-elsayed-developer)**.
