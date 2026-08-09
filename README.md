@@ -1,7 +1,7 @@
 <h1 align="center">Ahmed Elsayed</h1>
 
 <p align="center">
-  <strong>Full-Stack Developer · Python/Django + React/Next.js</strong><br />
+  <strong>Full-Stack Engineer · Python/Django + React/Next.js</strong><br />
   Cairo, Egypt · Available immediately · Open to worldwide remote opportunities
 </p>
 
@@ -14,7 +14,7 @@
 
 ## About me
 
-I'm a full-stack developer with 3+ years of experience building product features from relational data models and secure APIs through responsive web interfaces. I use Python, Django, Django REST Framework, and PostgreSQL on the backend, and TypeScript, React, and Next.js on the frontend.
+I'm a full-stack engineer with 3+ years of experience building product features from relational data models and secure APIs through responsive web interfaces. I use Python, Django, Django REST Framework, and PostgreSQL on the backend, and TypeScript, React, and Next.js on the frontend.
 
 - Building Django/DRF services and React/Next.js product features at **Swaqly**
 - Backend depth in REST APIs, relational modelling, authentication, permissions, integrations, and service logic
