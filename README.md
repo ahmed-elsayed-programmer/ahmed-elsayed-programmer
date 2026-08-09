@@ -7,6 +7,7 @@
 
 <p align="center">
   <a href="https://ahmedelsayed.vercel.app">Portfolio</a> ·
+  <a href="https://ahmedelsayed.vercel.app/projects">Projects</a> ·
   <a href="https://www.linkedin.com/in/ahmed-elsayed-developer">LinkedIn</a> ·
   <a href="mailto:ahmedelsayed3157@gmail.com">Email</a> ·
   <a href="https://ahmedelsayed.vercel.app/CV.pdf">CV</a>
@@ -26,11 +27,13 @@ I'm a full-stack engineer with 3+ years of experience building product features 
 
 ## Selected projects
 
-| Project | What it does | Stack |
-| --- | --- | --- |
-| [**TijaraOS — Inventory & Sales Management SaaS**](https://ahmedelsayed.vercel.app/projects/tijaraos) | Multi-tenant retail operations platform with organization-scoped access, transactional branch inventory and sales, permissions, reporting, and release automation. Private source; public technical case study. | Django, DRF, PostgreSQL, Redis, Next.js, TypeScript |
-| [**First Filter Automotive Platform**](https://ahmedelsayed.vercel.app/projects/first-filter) | Automotive catalogue workflows connecting vehicle, filter, manufacturer, and category data with permissions, image uploads, admin workflows, and web/mobile clients. | Django, DRF, PostgreSQL, React, Next.js, React Native |
-| [**Learning Management System**](https://github.com/ahmed-elsayed-programmer/lms-system) | Course platform with instructor workflows, chapters, video delivery, enrollments, progress tracking, payments, and analytics. | Next.js, TypeScript, Prisma, Stripe, Mux |
+| Project | Engineering scope | Stack | Evidence |
+| --- | --- | --- | --- |
+| [**TijaraOS — Inventory & Sales Management SaaS**](https://ahmedelsayed.vercel.app/projects/tijaraos) | Organization-scoped access, transactional branch inventory and sales, permissions, reporting, web/mobile integration, and release checks. | Django, DRF, PostgreSQL, Redis, Next.js, Expo | Public case study; private source |
+| [**First Filter Automotive Platform**](https://ahmedelsayed.vercel.app/projects/first-filter) | Relational automotive catalogue, permissions, image uploads, admin workflows, and shared web/mobile APIs. | Django, DRF, PostgreSQL, React, Next.js, React Native | Public case study; private source |
+| [**CSUnivers EdTech Platform**](https://ahmedelsayed.vercel.app/projects/csunivers) | Bilingual interfaces, authentication, role-aware learning workflows, application routes, and relational learning data. | Next.js, React, TypeScript, Prisma, MySQL | Public case study; private source |
+| [**Smart Polling API**](https://github.com/ahmed-elsayed-programmer/smart-polling) | Authenticated poll creation, conditional questions, validated submissions, and creator-only result aggregation. | Python, Django, DRF, JWT, SQLite | Public repository |
+| [**Dev Flow**](https://github.com/ahmed-elsayed-programmer/dev-flow) | Authentication, question search and creation, owner-checked editing, server actions, and MongoDB persistence. | Next.js, TypeScript, Auth.js, MongoDB, Vitest | In progress; public repository |
 
 ## Experience
 
@@ -68,4 +71,4 @@ I'm a full-stack engineer with 3+ years of experience building product features 
 
 ## Contact
 
-For full-stack roles using Python/Django and React/Next.js, email **[ahmedelsayed3157@gmail.com](mailto:ahmedelsayed3157@gmail.com)** or connect with me on **[LinkedIn](https://www.linkedin.com/in/ahmed-elsayed-developer)**.
+For full-stack roles using Python/Django and React/Next.js, review my **[project case studies](https://ahmedelsayed.vercel.app/projects)**, email **[ahmedelsayed3157@gmail.com](mailto:ahmedelsayed3157@gmail.com)**, or connect with me on **[LinkedIn](https://www.linkedin.com/in/ahmed-elsayed-developer)**.
