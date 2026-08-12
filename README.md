@@ -29,7 +29,7 @@ I'm a full-stack engineer with 3+ years of experience building product features 
 
 | Project | Engineering scope | Stack | Evidence |
 | --- | --- | --- | --- |
-| [**TijaraOS — Inventory & Sales Management SaaS**](https://ahmedelsayed.vercel.app/projects/tijaraos) | Organization-scoped access, transactional branch inventory and sales, permissions, reporting, web/mobile integration, and release checks. | Django, DRF, PostgreSQL, Redis, Next.js, Expo | Public case study; private source |
+| [**TijaraOS — Inventory & Sales Management SaaS**](https://ahmedelsayed.vercel.app/projects/tijaraos) | Organization-scoped access, transactional branch inventory and sales, permissions, reporting, web/mobile integration, and release checks. | Django, DRF, PostgreSQL, Redis, Next.js, Expo | [Public engineering proof](https://github.com/ahmed-elsayed-programmer/tijaraos-engineering-case-study); private application source |
 | [**First Filter Automotive Platform**](https://ahmedelsayed.vercel.app/projects/first-filter) | Relational automotive catalogue, permissions, image uploads, admin workflows, and shared web/mobile APIs. | Django, DRF, PostgreSQL, React, Next.js, React Native | Public case study; private source |
 | [**CSUnivers EdTech Platform**](https://ahmedelsayed.vercel.app/projects/csunivers) | Bilingual interfaces, authentication, role-aware learning workflows, application routes, and relational learning data. | Next.js, React, TypeScript, Prisma, MySQL | Public case study; private source |
 | [**Smart Polling API**](https://github.com/ahmed-elsayed-programmer/smart-polling) | Authenticated poll creation, conditional questions, validated submissions, and creator-only result aggregation. | Python, Django, DRF, JWT, SQLite | Public repository |
